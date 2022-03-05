@@ -14,15 +14,22 @@
 
 h1{
   font-size: 1.1em;
+  color: var(--desaturated-blue);
 }
 
 p{
   font-size: 0.8em;
   margin: 0.5em;
+  color: var(--dark-gray);
+}
+
+hr{
+  opacity: 0.2;
 }
 
 span{
   font-weight: 400;
+  color: var(--dark-gray);
 }
 
 body{
