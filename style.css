@@ -47,8 +47,6 @@ body{
 }
 
 main{
- display: flex;
- flex-direction: column;
  background-color: white;
  border-radius: 15px;
 }
