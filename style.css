@@ -34,12 +34,12 @@ span{
 
 body{
   background: url("images/bg-pattern-top.svg"),url("images/bg-pattern-bottom.svg");
-  background-position: top -900px left -700px, bottom -1000px right -550px;
+  background-position: top -66vw left -46vw, bottom -76vw right -38vw;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--cyan);
   background-blend-mode: overlay;
-   display: flex;
+  display: flex;
   height: 100vh;
   justify-content: center;
   align-items: center;
